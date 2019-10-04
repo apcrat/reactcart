@@ -1,6 +1,14 @@
 # reactcart
 ReactJs, Redux Based Shopping Cart &amp; CMS
 
-List of React SAAS eCommerce Projects
+List of React SAAS eCommerce Platforms :
 
-https://shoppiko.com
+[Shoppiko - eCommerce Platform](https://shoppiko.com)
+
+Technologies Used :
+- React
+- Redux
+- Node
+- Express
+- Axios
+- React Frontload (SSR)
