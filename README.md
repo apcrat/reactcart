@@ -4,7 +4,9 @@ List of React SAAS eCommerce Platforms :
 
 React is getting very popular and it is always inspiring to review projects which are already build on it. 
 
-[Shoppiko - eCommerce Platform](https://shoppiko.com/ecommerce-store)
+[Shoppiko - eCommerce Platform](https://shoppiko.com/ecommerce-platform)
+
+[Freelansify - Freelancing Platform](https://freelansify.com/freelancing-platform)
 
 Technologies Used :
 - React
